@@ -1,0 +1,19 @@
+4
+123456#Tran Xuan#Thanh#2003#4
+012365#Kinh doanh#3#9.2#5.6
+012365#KInh te#2#8.1#5.4
+015494#Vi mo#3#8.1#9.0
+012558#Ke toan#2#5.4#6.5
+122657#Nguyen Dinh#Thang#2003#3
+015449#The chat#2#8.2#5.6
+015668#Anh van#3#9.0#8.5
+012665#Giai tich#2#6.5#7.0
+126893#Nguyen Van#Dai#2003#3
+017892#Giai thuat#3#8.1#5.0
+012236#The chat#2#9.0#5.0
+174586#Ke toan#3#5.2#6.0
+125956#Tran Dinh#Trong#2003#4
+012365#Mang may tinh#2#9.6#8.7
+012364#Cau truc du lieu#3#9.2#5.7
+014789#Phan tich#2#5.6#7.4
+025896#Thuat toan#3#8.6#9.4
